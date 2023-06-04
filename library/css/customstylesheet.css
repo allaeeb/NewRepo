@@ -1,0 +1,14 @@
+﻿.footerlinks {
+  
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #ffd800;
+    }
+
+.btn btn-block btn-lg {
+    background-color: #5C3A1B;
+    border-color: #5C3A1B;
+    color: #fff;
+}
